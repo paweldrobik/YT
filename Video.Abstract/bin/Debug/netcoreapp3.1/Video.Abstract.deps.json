@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Video.Abstract/1.0.0": {
+        "dependencies": {
+          "Video.Model": "1.0.0"
+        },
+        "runtime": {
+          "Video.Abstract.dll": {}
+        }
+      },
+      "Video.Model/1.0.0": {
+        "runtime": {
+          "Video.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Video.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

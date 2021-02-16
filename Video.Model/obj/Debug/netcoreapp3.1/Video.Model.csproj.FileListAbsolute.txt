@@ -1,0 +1,8 @@
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\bin\Debug\netcoreapp3.1\Video.Model.deps.json
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\bin\Debug\netcoreapp3.1\Video.Model.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\bin\Debug\netcoreapp3.1\Video.Model.pdb
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\obj\Debug\netcoreapp3.1\Video.Model.AssemblyInfoInputs.cache
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\obj\Debug\netcoreapp3.1\Video.Model.AssemblyInfo.cs
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\obj\Debug\netcoreapp3.1\Video.Model.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\obj\Debug\netcoreapp3.1\Video.Model.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Model\obj\Debug\netcoreapp3.1\Video.Model.pdb

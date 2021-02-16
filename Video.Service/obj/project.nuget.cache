@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Pu1bLZSyIkhAWEXekOYDbmAtOKDaVGxJlJpzPtzzjjXBdGPDO+B8g6HqX6GOBpXGJeiKGEnz2RN/f8bfM8ixQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pawel\\Downloads\\Wielowarstwowe_sb_10.10.2020\\Wielowarstwowe_sb\\Video.Service\\Video.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pawel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

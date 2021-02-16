@@ -1,0 +1,14 @@
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\bin\Debug\netcoreapp3.1\Video.Service.deps.json
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\bin\Debug\netcoreapp3.1\Video.Service.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\bin\Debug\netcoreapp3.1\Video.Service.pdb
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\bin\Debug\netcoreapp3.1\Video.Abstract.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\bin\Debug\netcoreapp3.1\Video.Model.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\bin\Debug\netcoreapp3.1\Video.Abstract.pdb
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\bin\Debug\netcoreapp3.1\Video.Model.pdb
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\obj\Debug\netcoreapp3.1\Video.Service.csprojAssemblyReference.cache
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\obj\Debug\netcoreapp3.1\Video.Service.AssemblyInfoInputs.cache
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\obj\Debug\netcoreapp3.1\Video.Service.AssemblyInfo.cs
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\obj\Debug\netcoreapp3.1\Video.Service.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\obj\Debug\netcoreapp3.1\Video.Service.csproj.CopyComplete
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\obj\Debug\netcoreapp3.1\Video.Service.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\Video.Service\obj\Debug\netcoreapp3.1\Video.Service.pdb

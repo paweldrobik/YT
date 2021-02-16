@@ -1,0 +1,16 @@
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\DIIoC.exe
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\DIIoC.deps.json
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\DIIoC.runtimeconfig.json
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\DIIoC.runtimeconfig.dev.json
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\DIIoC.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\DIIoC.pdb
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\obj\Debug\netcoreapp3.1\DIIoC.AssemblyInfoInputs.cache
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\obj\Debug\netcoreapp3.1\DIIoC.AssemblyInfo.cs
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\obj\Debug\netcoreapp3.1\DIIoC.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\obj\Debug\netcoreapp3.1\DIIoC.csproj.CopyComplete
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\obj\Debug\netcoreapp3.1\DIIoC.dll
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\obj\Debug\netcoreapp3.1\DIIoC.pdb
+C:\Users\pawel\Downloads\Wielowarstwowe_sb_10.10.2020\Wielowarstwowe_sb\DIIoC\obj\Debug\netcoreapp3.1\DIIoC.genruntimeconfig.cache
